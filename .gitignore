@@ -334,4 +334,4 @@ ASALocalRun/
 .localhistory/
 
 # Mac files 
-*.DS_store
+.DS_store
