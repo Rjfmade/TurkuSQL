@@ -4,7 +4,7 @@ LinkedIn: www.linkedin.com/in/josé-faustino-martínez-delgado
 
 Do not hesitate contacting me :smiley:
 
-Hi! Welcome to the SQL repo with the exercises made from one of the subjects of Åbo akademi when I was studying in Turku University (TSE – Turku School of Economics). I am going to briefly explain what are you going to find in the following folders:
+Hi! Welcome to the SQL repo with the exercises made in one of the subjects of Åbo akademi when I was studying in Turku University (TSE – Turku School of Economics). I am going to briefly explain what are you going to find in the following folders:
 
 First folder:
 
